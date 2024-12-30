@@ -1,7 +1,6 @@
 # Informe sobre celulares de MercadoLibre
-Se realiza a travez del metodo de web scraping la recoleccion de datos de la pagina de Mercado Libre. Se recolecta informacion de la primera página al buscar celulares de todas las gamas. 
+Se llevó a cabo la recolección de datos de la página de Mercado Libre mediante la técnica de web scraping. La información recopilada corresponde a la primera página de resultados al buscar celulares de todas las gamas.
 
-Se puede observar que los celulares mas caros los ofrece la marca Samsung, seguido de la marca Motorola segun la primera pagina que muestra Mercado Libre. 
-Tambien podemos concluir que muchas marcas no pudieron ser recolectadas, éstas se muestran como N/A.
+El análisis de los datos revela que los celulares más costosos son ofrecidos por la marca Samsung, seguida por Motorola, según los resultados de la primera página. Cabe destacar que algunas marcas no pudieron ser identificadas y aparecen representadas como "N/A".
 
 ![alt text](image.png)
